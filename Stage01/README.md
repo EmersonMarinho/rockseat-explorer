@@ -10,7 +10,6 @@ Front-end vs Back-end </br>
 - [ ] Como funciona a web;
 - [ ] A diferença entre front-end e back-end;
 
-
 # Documentos utilizados:
 
 [Como a Web funciona - Aprendendo desenvolvimento web | MDN](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
