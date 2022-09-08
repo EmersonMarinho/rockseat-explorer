@@ -1,1 +1,1 @@
-# Programa RocketSeat Explorer rocket Desenvolvimento FullStack
+# Programa RocketSeat Explorer 🚀 Desenvolvimento FullStack
